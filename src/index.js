@@ -33,9 +33,7 @@ exports.avg = function avg (array) {
   }else{
     return 0;
   }
-  
-
 }
 
-
+//fdgfgf
 
